@@ -10,42 +10,6 @@ I build systems that listen, retrieve information, and turn unstructured data in
 [Hugging Face](https://huggingface.co/Rmano-Rudeson)
 
 
-## Selected projects
-
-
-### WeedScan KZ · Computer vision research
-
-
-MSc project on weed detection for agriculture in Kazakhstan. The release includes YOLO training scripts, experiment logs, downloadable checkpoints, and a React/FastAPI app for analyzing field images.
-
-
-[Code](https://github.com/Rrmanoo/weedscan-kz) · [Model weights](https://huggingface.co/Rmano-Rudeson/weedscan-kz) · [2026 paper](https://ojs.publisher.agency/index.php/RMS/article/view/8742)
-
-
-### HATTAMA.AI · Meeting transcription and follow-up
-
-
-HackAlem AI project by team 13Lab. Turns meeting recordings into editable minutes and action items with owners, deadlines, and links to the supporting transcript and audio.
-
-
-[Portfolio fork](https://github.com/Rrmanoo/hattama-ai) · [Original team repository](https://github.com/BAITC-Hacks/hack-e311b3ab-13lab)
-
-
-### Shyraq · Kazakh video accessibility
-
-An accessible video player and analysis pipeline for Kazakh scene descriptions and timestamped transcripts. The repository includes a synthetic clip and an offline demo timeline.
-
-[Code and demo](https://github.com/Rrmanoo/shyraq)
-
-### CashGuard · Video review prototype
-
-
-ForteBank Datathon project that uses a vision-language model to build a timestamped activity log and extract evidence frames from checkout videos. The repository documents the evaluation and its false positives.
-
-
-[Code and evaluation](https://github.com/Rrmanoo/cashguard-fortebank)
-
-
 ## Experience
 
 
